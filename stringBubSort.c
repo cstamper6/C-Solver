@@ -1,4 +1,4 @@
-/* C program to bubble sort strings in array */
+/* C program to bubble sort strings in array WITHOUT use of C string library functions */
 
 #include <stdio.h>
 #include <string.h>
