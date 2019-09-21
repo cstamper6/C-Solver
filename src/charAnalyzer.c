@@ -19,7 +19,7 @@ int main()
   fgets(text, MAX, stdin);
   length = strlen(text) - 1;
   
-  /* Analyse contents of text[]: */
+  /* Analyze contents of text[]: */
     
   for (i = lowercase = uppercase = digits = other = 0; i < MAX; i++)
   {
