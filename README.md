@@ -1,4 +1,4 @@
-# C-Solver
+# C-Toolbox
 A variety of programs written in C that accomplish specific tasks.
 
 COMP 411 - Computer Organization - Spring 2019
