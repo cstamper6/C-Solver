@@ -1,5 +1,5 @@
 # cToolbox
-A variety of programs written in C that accomplish specific tasks.
+A variety of programs written in C that accomplish specific mathematic and analytical tasks.
 
 COMP 411 - Computer Organization - Spring 2019
 
